@@ -3,7 +3,8 @@
 Foro Hub es una aplicación de foro diseñada para facilitar la comunicación y discusión entre usuarios. Esta aplicación permite a los usuarios crear tópicos, responder a los mismos y participar en discusiones.
 
 <p align="center">
-    <img src="https://github.com/DianaOropeza/Chall-ForoHub/assets/122529721/952e8461-2eac-4c28-8fd0-bb676e672528"/>
+    <img src="https://github.com/DianaOropeza/Chall-ForoHub/blob/main/Badge-Spring.png"/>
+    
 </p>
 
 
